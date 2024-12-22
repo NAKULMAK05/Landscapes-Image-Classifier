@@ -62,6 +62,7 @@ if uploaded_file is not None:
         st.write(f"### 🔑 Confidence Level: **{confidence_level:.2f}%**")
 
         # Detailed explanation section
+        # helps user to understand why this class is predicted by the Landscape Images Classifier Model
         st.markdown("### 🧐 Why this prediction?")
         explanations = {
             "Coasts": "Features like water bodies, sandy beaches, and coastal elements are prevalent in coastal landscapes.",
