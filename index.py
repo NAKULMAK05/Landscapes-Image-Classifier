@@ -26,7 +26,7 @@ uploaded_file = st.file_uploader("🖼️ Upload a landscape image...", type=["j
 
 # If no image is uploaded, show placeholder
 if uploaded_file is None:
-    st.image("placeholder.jpg", caption="Please upload a landscape image.", use_column_width=True)
+    st.image("placeholder.jpg", caption="Please upload a landscape image.", use_container_width=True)
 
 # When an image is uploaded
 if uploaded_file is not None:
@@ -36,7 +36,7 @@ if uploaded_file is not None:
     img_array = np.expand_dims(img_array, axis=0)
 
     # Display the uploaded image in a professional manner
-    st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
+    st.image(uploaded_file, caption="Uploaded Image", use_container_width=True)
 
     # Classify button with a loading spinner for real-time feedback
     if st.button("🔍 Classify Image"):
