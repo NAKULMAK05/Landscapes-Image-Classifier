@@ -35,87 +35,18 @@ Ensure you have the following installed on your system:<br/>
 
 **Installation**<br/>
 * **Clone this repository**:<br/>
-https://github.com/your-username/landscape-classifier.git<br/>
+https://github.com/your-username/landscape-classifier.git](https://github.com/NAKULMAK05/Landscapes-Image-Classifier.git<br/>
 <br/>
+
 * **Install the required Python libraries**:<br/>
 pip install -r requirements.txt<br/>
 
 <br/>
 
 **How to Run the App**<br/>
-<br/>
-* **Preprocess the Dataset**:<br/>
-  Open and run preprocessing.ipynb:<br/>
-  ```bash
-  jupyter notebook notebooks/preprocessing.ipynb
-  ```
-   <br/>
-
-* **Train the Model**:<br/>
-  Open and run model_training.ipynb:<br/>
-  ```bash
-  jupyter notebook notebooks/model_training.ipynb
-  ```
-
+run the streamlit application index.py and then enter command streamlit run index.py in the command line.<br/>
+the streamlit application will be deployed in the browser where you can classify various landscape images.<br/>
   <br/>
-
-* **Evaluate the Model**:<br/>
-  Open and run evaluation.ipynb:<br/>
-  ```bash
-  jupyter notebook notebooks/evaluation.ipynb
-  ```<br/>
-
-<br/>
-
-**Usage Instructions**<br/>
-
-**Predict a Landscape**<br/>
-* Import the necessary libraries and load the trained model:<br/>
-```python
-from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing.image import load_img, img_to_array
-
-# Load the model
-model = load_model('models/cnn_model.h5')
-
-# Load and preprocess the image
-image = load_img('path_to_image.jpg', target_size=(150, 150))
-image_array = img_to_array(image) / 255.0
-image_array = image_array.reshape((1, 150, 150, 3))
-
-# Predict
-prediction = model.predict(image_array)
-classes = ['mountains', 'coasts', 'deserts', 'glaciers', 'forests']
-print(f"Predicted landscape: {classes[prediction.argmax()]}")
-```
-
-<br/>
-
-**Results**<br/>
-
-* **Model Accuracy**:<br/>
-  - Training Accuracy: 95%<br/>
-  - Validation Accuracy: 93%<br/>
-
-* **Confusion Matrix**:<br/>
-  Displays the classification performance for each class.<br/>
-
-* **Sample Predictions**:<br/>
-  - Input Image: ![sample_image](images/sample.jpg)<br/>
-  - Predicted Class: Mountains<br/>
-
-<br/>
-
-**Troubleshooting**<br/>
-
-**Incorrect Predictions**<br/>
-* Ensure the input image resolution matches the model's requirements.<br/>
-* Augment the dataset with more diverse examples.<br/>
-
-**Performance Issues**<br/>
-* Optimize the model's architecture for better speed and accuracy.<br/>
-* Ensure you have adequate system resources.<br/>
-
 <br/>
 
 **Future Enhancements**<br/>
@@ -136,7 +67,7 @@ print(f"Predicted landscape: {classes[prediction.argmax()]}")
 <br/>
 
 **Acknowledgments**<br/>
-* **Dataset**: The dataset used in this project was sourced from [dataset source name or link].<br/>
+* **Dataset**: The dataset used in this project was sourced from Kaggle (Landscape Images dataset of 12k images).<br/>
 * **Libraries**: Special thanks to the open-source libraries that made this project possible.<br/>
 
 <br/>
