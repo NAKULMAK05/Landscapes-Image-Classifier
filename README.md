@@ -31,7 +31,7 @@
 Ensure you have the following installed on your system:<br/>
 
 * Python 3.8 or higher<br/>
-* Libraries mentioned in the requirements.txt<br/>
+* Libraries required for this project are mentioned in the requirements.txt<br/>
 
 **Installation**<br/>
 * **Clone this repository**:<br/>
