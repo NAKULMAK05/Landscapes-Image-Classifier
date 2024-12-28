@@ -10,7 +10,7 @@
 ---
 
 **Features**
-* **Multi-class Classification**: Classifies images into one of five landscape categories.<br/>
+* **Multi-class Classification**: Classifies landscape images into one of five landscape categories.<br/>
 * **Data Augmentation**: Enhances model robustness with augmented training data.<br/>
 * **Model Evaluation**: Provides performance metrics including accuracy, loss, and confusion matrix visualization.<br/>
 * **K-fold Cross-Validation**: Ensures reliability and generalizability of results.<br/>
@@ -35,7 +35,7 @@ Ensure you have the following installed on your system:<br/>
 
 **Installation**<br/>
 * **Clone this repository**:<br/>
-https://github.com/your-username/landscape-classifier.git](https://github.com/NAKULMAK05/Landscapes-Image-Classifier.git<br/>
+[https://github.com/NAKULMAK05/Landscapes-Image-Classifier.git]<br/>
 <br/>
 
 * **Install the required Python libraries**:<br/>
