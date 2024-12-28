@@ -20,10 +20,8 @@
 
 **Project Files**
 
-* **preprocessing.ipynb** : Contains the code for resizing, rescaling, and augmenting the dataset.<br/>
-* **model_training.ipynb** : Includes the model definition and training code.<br/>
-* **evaluation.ipynb** : Provides model evaluation metrics and confusion matrix visualization.<br/>
-* **cnn_model.h5** : Trained model weights.<br/>
+* **index.py** : Streamlit Application for Classification of Landscape Images.<br/>
+* **resnet91.keras** : Trained model weights.<br/>
 
 <br/>
 
