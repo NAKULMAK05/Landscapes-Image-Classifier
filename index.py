@@ -13,6 +13,7 @@ model.training = False
 # Class names corresponding to the model's output
 class_names = ['Coasts', 'Deserts', 'Forests', 'Glacier', 'Mountains']
 
+
 # App header with a clean, professional design
 st.title("🌍Landscape Image Classifier")
 st.markdown("""
@@ -24,7 +25,7 @@ The classifier provides insights into why a landscape is classified into a parti
 # File uploader for image
 uploaded_file = st.file_uploader("🖼️ Upload a landscape image...", type=["jpg", "jpeg", "png"])
 
-# If no image is uploaded, show placeholder
+# If no image is uploaded, show placeholder image
 if uploaded_file is None:
     st.image("placeholder.jpg", caption="Please upload a landscape image.", use_container_width=True)
 
