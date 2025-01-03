@@ -20,9 +20,9 @@
 
 **Project Files**
 
-* **index.py** : Streamlit Application for Classification of Landscape Images.<br/>
-* **resnet91.keras** : Trained model weights.<br/>
-* **requirements.txt** : Contains all the dependencies required for the application<br/>
+* **index.py** :  Streamlit Application for Classification of Landscape Images.<br/>
+* **resnet91.keras** :  Trained model weights.<br/>
+* **requirements.txt** :  Contains all the dependencies required for the application<br/>
 
 
 <br/>
