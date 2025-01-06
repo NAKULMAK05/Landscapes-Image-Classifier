@@ -20,7 +20,6 @@ Welcome to the **AI-powered Landscape Classifier** for industry professionals.
 Upload a landscape image and our model will predict its category with detailed confidence scores for each class.  
 The classifier provides insights into why a landscape is classified into a particular category, making it suitable for business or research analysis.
 """)
-
 # File uploader for image
 uploaded_file = st.file_uploader("🖼️ Upload a landscape image...", type=["jpg", "jpeg", "png"])
 
