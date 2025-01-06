@@ -13,6 +13,7 @@ model.training = False
 # Class names corresponding to the model's output
 class_names = ['Coasts', 'Deserts', 'Forests', 'Glacier', 'Mountains']
 
+
 # App header with a clean, professional design
 st.title("🌍Landscape Image Classifier")
 st.markdown("""
