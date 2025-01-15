@@ -64,7 +64,7 @@ the streamlit application will be deployed in the browser where you can classify
 * **Matplotlib/Seaborn**: Visualization tools<br/>
 * **NumPy/Pandas**: Data manipulation<br/>
 
-<br/>
+<br/> 
 
 **Acknowledgments**<br/>
 * **Dataset**: The dataset used in this project was sourced from Kaggle (Landscape Images dataset of 12k images).<br/>
