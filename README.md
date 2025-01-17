@@ -1,6 +1,6 @@
 **Landscape Image Classifier**
 
-**This project is a deep learning-based image classifier capable of predicting five landscape classes:** 
+**This project is a deep learning-based image classifier capable of predicting five landscape classes:**  
 - **Mountains**
 - **Coasts**
 - **Deserts**
