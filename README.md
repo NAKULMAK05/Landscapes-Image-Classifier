@@ -48,7 +48,7 @@ run the streamlit application index.py and then enter command streamlit run inde
 the streamlit application will be deployed in the browser where you can classify various landscape images Categories and Use the predicions for your further research.<br/>
   <br/>
 <br/>
-
+ 
 **Future Enhancements**<br/>
 * Expand the dataset to include more landscape types.<br/>
 * Improve the model's accuracy with hyperparameter tuning.<br/>
