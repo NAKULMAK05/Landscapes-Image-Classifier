@@ -18,7 +18,7 @@
 
 <br/>
 
-**Project Files**
+**Project Files** 
 
 * **index.py** :  Streamlit Application for Classification of Landscape Images.<br/> 
 * **resnet91.keras** :  Trained model weights.<br/>
