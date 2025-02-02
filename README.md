@@ -17,7 +17,7 @@
 * **Efficient Preprocessing**: Optimized dataset pipeline for resizing, rescaling, and augmentation.<br/>
 
 <br/> 
- 
+  
 **Project Files**   
  
 * **index.py** :  Streamlit Application for Classification of Landscape Images.<br/> 
