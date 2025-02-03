@@ -7,7 +7,7 @@
 - **Glaciers**  
 - **Forests**     
    
----   
+---    
   
 **Features**   
 * **Multi-class Classification**: Classifies images into one of five landscape categories.<br/>
