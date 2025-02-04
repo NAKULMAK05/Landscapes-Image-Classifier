@@ -9,7 +9,7 @@
     
 ---    
   
-**Features**   
+**Features**    
 * **Multi-class Classification**: Classifies images into one of five landscape categories.<br/>
 * **Data Augmentation**: Enhances model robustness with augmented training data.<br/>
 * **Model Evaluation**: Provides performance metrics including accuracy, loss, and confusion matrix visualization.<br/>
