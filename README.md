@@ -73,5 +73,5 @@ the streamlit application will be deployed in the browser where you can classify
 <br/>
 
 **License**<br/>
-This project is licensed under the [MIT License](LICENSE).
-Deployed link: <br> https://nakulmak05.github.io/Landscapes-Image-Classifier/</br>
+This project is licensed under the [MIT License](LICENSE).<br/>
+Deployed link: <br/> https://nakulmak05.github.io/Landscapes-Image-Classifier/
