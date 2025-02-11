@@ -1,5 +1,8 @@
 **Landscape Image Classifier**
 
+Deployed Link : https://landscapes-image-classifier.streamlit.app/
+<br/><br/>
+
 **This project is a deep learning-based image classifier capable of predicting five landscape classes:**  
 - **Mountains**
 - **Coasts**
@@ -74,4 +77,3 @@ the streamlit application will be deployed in the browser where you can classify
 
 **License**<br/>
 This project is licensed under the [MIT License](LICENSE).<br/>
-Deployed link: <br/> https://nakulmak05.github.io/Landscapes-Image-Classifier/
