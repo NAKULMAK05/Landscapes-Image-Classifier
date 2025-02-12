@@ -58,7 +58,7 @@ the streamlit application will be deployed in the browser where you can classify
 * Develop a web-based or mobile app interface for the classifier.<br/>
 * Integrate Grad-CAM to visualize the model's decision-making process.<br/>
 
-<br/>
+<br/> 
 
 **Technologies Used**<br/>
 
