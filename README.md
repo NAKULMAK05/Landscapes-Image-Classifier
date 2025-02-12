@@ -18,7 +18,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
 * **Model Evaluation**: Provides performance metrics including accuracy, loss, and confusion matrix visualization.<br/>
 * **K-fold Cross-Validation**: Ensures reliability and generalizability of results.<br/>
 * **Efficient Preprocessing**: Optimized dataset pipeline for resizing, rescaling, and augmentation.<br/>
-
+ 
 <br/> 
   
 **Project Files**    
