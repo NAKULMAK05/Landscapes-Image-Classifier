@@ -19,7 +19,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
 * **K-fold Cross-Validation**: Ensures reliability and generalizability of results.<br/>
 * **Efficient Preprocessing**: Optimized dataset pipeline for resizing, rescaling, and augmentation.<br/>
  
-<br/> 
+<br/>  
   
 **Project Files**    
  
