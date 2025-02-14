@@ -9,7 +9,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
 - **Deserts** 
 - **Glaciers**  
 - **Forests**     
-    
+     
 ---    
    
 **Features**    
