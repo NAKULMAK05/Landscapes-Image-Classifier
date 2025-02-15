@@ -42,7 +42,7 @@ Ensure you have the following dependencies installed on your system:<br/>
 <br/>
 
 * **Install the required Python libraries**:<br/>
-pip install -r requirements.txt<br/>
+pip install -r requirements.txt<br/> 
 
 <br/>
 
