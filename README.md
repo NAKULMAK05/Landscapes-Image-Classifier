@@ -35,7 +35,7 @@ Ensure you have the following dependencies installed on your system:<br/>
 
 * Python 3.8 or higher<br/> 
 * Libraries required for this project are mentioned in the requirements.txt<br/>
-
+ 
 **Installation**<br/>
 * **Clone this repository**:<br/>
 [https://github.com/NAKULMAK05/Landscapes-Image-Classifier.git]<br/>
