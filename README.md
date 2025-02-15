@@ -40,7 +40,7 @@ Ensure you have the following dependencies installed on your system:<br/>
 * **Clone this repository**:<br/>
 [https://github.com/NAKULMAK05/Landscapes-Image-Classifier.git]<br/>
 <br/>
-
+ 
 * **Install the required Python libraries**:<br/>
 pip install -r requirements.txt<br/> 
 
