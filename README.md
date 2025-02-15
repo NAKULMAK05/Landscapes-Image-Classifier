@@ -33,7 +33,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
 **Requirements**<br/> 
 Ensure you have the following dependencies installed on your system:<br/>  
 
-* Python 3.8 or higher<br/>
+* Python 3.8 or higher<br/> 
 * Libraries required for this project are mentioned in the requirements.txt<br/>
 
 **Installation**<br/>
