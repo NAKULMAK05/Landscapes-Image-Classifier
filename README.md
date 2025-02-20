@@ -25,7 +25,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
  
 * **index.py** :  Streamlit Application for Classification of Landscape Images.<br/>  
 * **resnet91.keras** :  Trained model weights.<br/>
-* **requirements.txt** :  Contains all the dependencies required for the application<br/>
+* **requirements.txt** :  Contains all the dependencies required for the application<br/> 
 
 
 <br/>
