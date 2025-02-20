@@ -15,7 +15,7 @@ Deployed Link : https://landscapes-image-classifier.streamlit.app/
 **Features**    
 * **Multi-class Classification**: Classifies images into one of five landscape categories.<br/>
 * **Data Augmentation**: Enhances model robustness with augmented training data.<br/>
-* **Model Evaluation**: Provides performance metrics including accuracy, loss, and confusion matrix visualization.<br/>
+* **Model Evaluation**: Provides performance metrics including accuracy, loss, and confusion matrix visualization.<br/> 
 * **K-fold Cross-Validation**: Ensures reliability and generalizability of results.<br/>
 * **Efficient Preprocessing**: Optimized dataset pipeline for resizing, rescaling, and augmentation.<br/>
  
