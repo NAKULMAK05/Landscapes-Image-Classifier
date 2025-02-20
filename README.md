@@ -52,7 +52,7 @@ the streamlit application will be deployed in the browser where you can classify
   <br/>
 <br/>
  
-**Future Enhancements**<br/>
+**Future Enhancements**<br/> 
 * Expand the dataset to include more landscape types.<br/>
 * Improve the model's accuracy with hyperparameter tuning.<br/>
 * Develop a web-based or mobile app interface for the classifier.<br/>
