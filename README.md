@@ -1,7 +1,7 @@
 **Landscape Image Classifier**
 
 Deployed Link : https://landscapes-image-classifier.streamlit.app/
-<br/><br/>
+<br/><br/> 
 
 **This project is a deep learning-based image classifier capable of predicting five landscape classes:**  
 - **Mountains**
