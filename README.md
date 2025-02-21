@@ -76,12 +76,26 @@ the streamlit application will be deployed in the browser where you can classify
 <br/>
 
 <br/>
-**Outputs**
 <br/>
-<img width="800" alt="land1" src="https://github.com/user-attachments/assets/c3782497-1b64-4b9f-bfde-73c584bb9bde" /><br/>
 
-<img width="800" alt="pred1" src="https://github.com/user-attachments/assets/834d5c52-38c6-479b-94ba-7a28f784a456" /> <br/>
+**Outputs**
 
+<br/>
+
+**1) Landing Page** 
+
+<br/>
+<br/>
+<img width="800" alt="land1" src="https://github.com/user-attachments/assets/c3782497-1b64-4b9f-bfde-73c584bb9bde" /><br/><br/>
+
+**2) Uploading Landscape Image and Getting Predictions** 
+<br/>
+<br/>
+<img width="800" alt="pred1" src="https://github.com/user-attachments/assets/834d5c52-38c6-479b-94ba-7a28f784a456" /> <br/><br/>
+
+**3) Getting the statistics of Prediction** 
+<br/>
+<br/>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/4f199748-c5a4-4444-8f0b-46abfe24a308" /><br/>
 
 <br/>
