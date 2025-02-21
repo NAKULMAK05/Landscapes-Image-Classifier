@@ -75,5 +75,10 @@ the streamlit application will be deployed in the browser where you can classify
 
 <br/>
 
+<br/>
+**Outputs**<br/>
+![image](https://github.com/user-attachments/assets/b2ea8f22-30e3-423e-836b-7f18a4beadf0)
+
+
 **License**<br/>
 This project is licensed under the [MIT License](LICENSE).<br/>
