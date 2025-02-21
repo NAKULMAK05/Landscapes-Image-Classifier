@@ -77,7 +77,7 @@ the streamlit application will be deployed in the browser where you can classify
 
 <br/>
 **Outputs**<br/>
-![image](https://github.com/user-attachments/assets/b2ea8f22-30e3-423e-836b-7f18a4beadf0)
+<img width="786" alt="land1" src="https://github.com/user-attachments/assets/c3782497-1b64-4b9f-bfde-73c584bb9bde" />
 
 
 **License**<br/>
