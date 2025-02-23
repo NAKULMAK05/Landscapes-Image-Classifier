@@ -62,7 +62,7 @@ the streamlit application will be deployed in the browser where you can classify
 
 **Technologies Used**<br/>
 
-* **Python**: Programming language<br/>
+* **Python**: Programming language <br/>
 * **TensorFlow/Keras**: Deep learning framework<br/>
 * **Matplotlib/Seaborn**: Visualization tools<br/>
 * **NumPy/Pandas**: Data manipulation<br/>
