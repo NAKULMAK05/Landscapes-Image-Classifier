@@ -48,7 +48,7 @@ pip install -r requirements.txt<br/>
 <br/>
 
 **How to Run the App**<br/>
-run the streamlit application index.py and then enter command streamlit run index.py in the terminal .<br/>
+run the streamlit application index.py and then enter command streamlit run index.py in the terminal to run the landscape classifier.<br/>
 the streamlit application will be deployed in the browser where you can classify various landscape images Categories and Use the predicions for your further research.<br/>
   <br/>
 <br/>
