@@ -6,8 +6,7 @@ from tensorflow.keras.preprocessing.image import img_to_array, load_img
 import tensorflow as tf
 import pandas as pd
 import matplotlib.pyplot as plt
-import sklearn from scikit-learn
- 
+
 model = load_model('resnet91.keras')
 model.training = False
 
